@@ -1,0 +1,32 @@
+{
+  "name": "hf-promise",
+  "version": "1.0.0",
+  "description": "promise/A+ implement",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hushicai/hf-promise.git"
+  },
+  "author": "hushicai <bluthcy@gmail.com> (http://hushicai.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hushicai/hf-promise/issues"
+  },
+  "homepage": "https://github.com/hushicai/hf-promise",
+  "devDependencies": {
+    "karma": "^0.12.31",
+    "jasmine-core": "^2.2.0",
+    "karma-jasmine": "^0.3.5",
+    "karma-requirejs": "^0.2.2",
+    "requirejs": "^2.1.17",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-coverage": "^0.2.7",
+    "karma-mocha-reporter": "^1.0.2"
+  }
+}
